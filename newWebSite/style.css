@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+}
+
+:root{
+    --primary-color: hsl(197, 96%, 12%);
+    --secondary-color: hsl(191, 95%, 17%);
+    --terciary-color: hsl(186, 96%, 22%);
+    --quartenary-color: hsl(180, 46%, 44%);
+    --background-color: hsl(28, 52%, 89%);
+
+    font-size: 62.5%;
+}
+
+body{
+    background-color: var(--quartenary-color);
+    width: 100vw;
+}
+
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-inline: auto;
+    text-align: center;
+    color: var(--background-color);
+}
+
+button{
+    margin: 2rem;
+    padding: 1rem;
+    border: 0;
+    width: auto;
+    height: auto;
+    background-color: var(--primary-color);
+}
+
+button a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: var(--background-color);
+}
+
+h1{
+    padding-block: 3rem;
+    font-size: 3rem;
+    background-color: var(--primary-color);
+    color: var(--background-color);
+}
+
+h2{
+    padding-block: 3rem;
+    font-size: 2rem;
+}
