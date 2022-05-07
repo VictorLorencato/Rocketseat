@@ -1,0 +1,25 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    margin: 0;
+}
+header {
+    display: flex;
+    /*border: 1px dashed red;*/
+    padding: 1rem;
+    justify-content: space-between
+}
+nav{
+    display: flex;
+    /*border: 1px dashed blue;*/
+    gap: .8rem;
+}
+nav button:last-child{
+    /*border: 1px dashed green;*/
+    background-color: blue;
+    color: white;
+    padding:.3rem;
+}
+header{
+    background: lightgray;
+}

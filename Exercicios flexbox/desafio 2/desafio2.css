@@ -1,0 +1,16 @@
+body{
+    margin: 1vh;
+}
+section{
+    display: flex;
+    height: 98vh;
+    gap: 1rem;
+}
+.left{
+    border: 1px dashed red;
+    flex-basis: 25%;
+}
+.right{
+    border: 1px dashed blue;
+    flex-grow: 1;
+}

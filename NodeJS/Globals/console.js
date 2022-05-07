@@ -1,0 +1,1 @@
+global.console.log('alguma coisa aqui')

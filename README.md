@@ -1,0 +1,1 @@
+This is where I'll share some exercises I did along with my Rocketseat course, mostly simple codes made for learning and training. If you see something wrong or can provide additional info and better solutions, it would be great!

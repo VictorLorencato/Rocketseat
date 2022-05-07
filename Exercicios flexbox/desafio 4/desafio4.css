@@ -1,0 +1,16 @@
+div{
+    display: flex;
+    gap: .4rem;
+    justify-content: center;
+}
+img{
+    width: 20px;
+    height: auto;
+}
+button{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    background-color: lightgray;
+    line-height: 0;
+}
